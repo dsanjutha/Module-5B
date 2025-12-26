@@ -24,7 +24,8 @@ print("Indices where x >= y:", indices[0])
 ```
 
 ## Output
-![Uploading Screenshot 2025-12-26 192041.png…]()
+<img width="1134" height="276" alt="Screenshot 2025-12-26 192041" src="https://github.com/user-attachments/assets/e4e05e8d-90cb-4bf1-96b0-15b315255754" />
+
 
 ## Result
 The code is executed successfully.
