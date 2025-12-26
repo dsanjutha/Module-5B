@@ -27,7 +27,8 @@ print(arr_updated)
 ```
 
 ## Output
-![Uploading Screenshot 2025-12-26 192221.png…]()
+<img width="1138" height="450" alt="Screenshot 2025-12-26 192221" src="https://github.com/user-attachments/assets/2d45e31c-9d97-44a1-9887-331910127895" />
+
 
 ## Result
 The code is executed successfully.
