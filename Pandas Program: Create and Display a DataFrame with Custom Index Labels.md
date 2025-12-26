@@ -33,7 +33,9 @@ print(df)
 ```
 
 ## Output
-![Uploading Screenshot 2025-12-26 192355.png…]()
+
+<img width="1136" height="426" alt="Screenshot 2025-12-26 192355" src="https://github.com/user-attachments/assets/c3a1791e-82b3-42b4-ad0c-f421e40063db" />
+
 
 ## Result
 The code is executed successfully.
